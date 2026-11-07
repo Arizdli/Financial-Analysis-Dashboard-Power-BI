@@ -31,7 +31,7 @@ The dashboard provides meaningful financial insights through interactive visuali
 - Interactive filters for Week Start Date, card category, gender, quarter, and credit category.
 
 ## Dashboard Preview
-- <a href="https://github.com/Arizdli/Financial-Analysis-Dashboard-Power-BI/blob/main/Financial%20dashboard.pdf">View Dashboard<a/>
+ <a href="https://github.com/Arizdli/Financial-Analysis-Dashboard-Power-BI/blob/main/Financial%20dashboard.pdf">View Dashboard<a/>
 
 ## Key Insights
 
@@ -49,4 +49,4 @@ The dashboard provides meaningful financial insights through interactive visuali
 - This project demonstrates practical skills in Power BI dashboard development, data transformation, DAX calculations, KPI reporting, and interactive data visualization.
 
 ## Developed by:
-- Ariz Ahmad
+ Ariz Ahmad
