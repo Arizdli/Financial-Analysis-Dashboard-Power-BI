@@ -43,3 +43,10 @@ The dashboard provides meaningful financial insights through interactive visuali
 
 ## Project Structure
 - <a href="https://github.com/Arizdli/Financial-Analysis-Dashboard-Power-BI/blob/main/financial%20dashboard.pbix">Financial Dashboard.pbix<a/>
+
+## Conclusion
+
+- This project demonstrates practical skills in Power BI dashboard development, data transformation, DAX calculations, KPI reporting, and interactive data visualization.
+
+## Developed by:
+- Ariz Ahmad
