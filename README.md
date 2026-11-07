@@ -42,7 +42,7 @@ The dashboard provides meaningful financial insights through interactive visuali
 - Graduate customers represent the largest education category.
 
 ## Project Structure
-- <a href="https://github.com/Arizdli/Financial-Analysis-Dashboard-Power-BI/blob/main/financial%20dashboard.pbix">Financial Dashboard.pbix<a/>
+ <a href="https://github.com/Arizdli/Financial-Analysis-Dashboard-Power-BI/blob/main/financial%20dashboard.pbix">Financial Dashboard.pbix<a/>
 
 ## Conclusion
 
