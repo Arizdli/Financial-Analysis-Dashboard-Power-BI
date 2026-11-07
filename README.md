@@ -33,3 +33,13 @@ The dashboard provides meaningful financial insights through interactive visuali
 ## Dashboard Preview
 - <a href="https://github.com/Arizdli/Financial-Analysis-Dashboard-Power-BI/blob/main/Financial%20dashboard.pdf">View Dashboard<a/>
 
+## Key Insights
+
+- Total income is approximately 576M.
+- The 40–50 age group contributes the highest income.
+- New York, Texas, and California are among the top states by income.
+- Businessmen contribute the highest income among customer job categories.
+- Graduate customers represent the largest education category.
+
+## Project Structure
+- <a href="https://github.com/Arizdli/Financial-Analysis-Dashboard-Power-BI/blob/main/financial%20dashboard.pbix">Financial Dashboard.pbix<a/>
